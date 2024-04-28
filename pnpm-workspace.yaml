@@ -1,0 +1,4 @@
+packages:
+  - './packages/@contentlayer/*'
+  - './packages/*'
+  - './examples/*'
